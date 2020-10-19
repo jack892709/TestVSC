@@ -1,8 +1,13 @@
 #include<iostream>
+#include "testVSC.h"
 using namespace std;
 
 int main(int argc, char* argv[])
+{    
+    cout << "Devil Number:" << GetDevilNumber() << endl;
+}
+
+int GetDevilNumber()
 {
-    cout << "nothing to declare\n";
-    
+    return 666;
 }
