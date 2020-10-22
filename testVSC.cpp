@@ -9,5 +9,5 @@ int main(int argc, char* argv[])
 
 int GetDevilNumber()
 {
-    return 666;
+    return 777;
 }
